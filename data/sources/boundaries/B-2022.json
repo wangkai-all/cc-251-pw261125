@@ -1,0 +1,7 @@
+{
+  "batch_id": "B-2022",
+  "published_at": "2022-04-11T09:30:00Z",
+  "records": [
+    {"kind": "boundary", "region_id": "510301", "boundary_ref": "YC-BD-2022-0205", "effective_date": "2022-01-01"}
+  ]
+}

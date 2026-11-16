@@ -1,0 +1,15 @@
+{
+  "batch_id": "G-2022",
+  "published_at": "2022-03-25T12:00:00Z",
+  "records": [
+    {
+      "kind": "notice",
+      "notice_id": "G-2022-003",
+      "event": "rename",
+      "title": "关于龙泉镇改设龙泉新区的通知（虚构）",
+      "from_region_id": "510301",
+      "to_region_id": "510301",
+      "effective_date": "2022-01-01"
+    }
+  ]
+}

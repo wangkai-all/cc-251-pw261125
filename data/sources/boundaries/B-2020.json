@@ -1,0 +1,10 @@
+{
+  "batch_id": "B-2020",
+  "published_at": "2020-02-28T05:00:00Z",
+  "records": [
+    {"kind": "boundary", "region_id": "510101", "boundary_ref": "YC-BD-2020-0007", "effective_date": "2020-01-01"},
+    {"kind": "boundary", "region_id": "510201", "boundary_ref": "YC-BD-2020-0012", "effective_date": "2020-01-01"},
+    {"kind": "boundary", "region_id": "510301", "boundary_ref": "YC-BD-2020-0021", "effective_date": "2020-01-01"},
+    {"kind": "boundary", "region_id": "510302", "boundary_ref": "YC-BD-2020-0022", "effective_date": "2020-01-01"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "batch_id": "G-2018-BF",
+  "published_at": "2022-09-30T11:00:00Z",
+  "records": [
+    {
+      "kind": "notice",
+      "notice_id": "G-2018-027-BF",
+      "event": "merge",
+      "title": "历史回补卷：2018 年两镇合并为江南镇的通知（虚构）",
+      "from_region_ids": ["510303", "510304"],
+      "to_region_id": "510302",
+      "effective_date": "2018-03-01"
+    }
+  ]
+}

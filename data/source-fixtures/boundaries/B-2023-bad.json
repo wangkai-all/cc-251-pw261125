@@ -1,0 +1,7 @@
+{
+  "batch_id": "B-2023",
+  "published_at": "2023-03-01T00:00:00Z",
+  "records": [
+    {"kind": "boundary", "region_id": "510102", "boundary_ref": "YC-BD-2023-0301", "effective_date": "2023-05-01"
+  ]
+}

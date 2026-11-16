@@ -1,0 +1,11 @@
+{
+  "batch_id": "N-2018-BF",
+  "published_at": "2022-10-08T10:30:00Z",
+  "records": [
+    {"kind": "name", "region_id": "510303", "name": "旧安镇", "parent_id": "510300", "effective_date": "2018-01-01"},
+    {"kind": "name", "region_id": "510304", "name": "旧宁镇", "parent_id": "510300", "effective_date": "2018-01-01"},
+    {"kind": "name", "region_id": "510303", "name": "旧安镇", "parent_id": "510300", "status": "retired", "effective_date": "2018-03-01"},
+    {"kind": "name", "region_id": "510304", "name": "旧宁镇", "parent_id": "510300", "status": "retired", "effective_date": "2018-03-01"},
+    {"kind": "name", "region_id": "510302", "name": "江南镇", "parent_id": "510300", "effective_date": "2018-03-01"}
+  ]
+}

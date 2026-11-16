@@ -1,0 +1,7 @@
+{
+  "batch_id": "N-2023",
+  "published_at": "2023-05-09T01:15:00Z",
+  "records": [
+    {"kind": "name", "region_id": "510102", "name": "江南区", "parent_id": "510100", "effective_date": "2023-05-01"}
+  ]
+}

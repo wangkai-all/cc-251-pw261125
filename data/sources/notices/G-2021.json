@@ -1,0 +1,15 @@
+{
+  "batch_id": "G-2021",
+  "published_at": "2021-07-20T12:00:00Z",
+  "records": [
+    {
+      "kind": "notice",
+      "notice_id": "G-2021-014",
+      "event": "split",
+      "title": "关于云桥县分设云北县、云南县的通知（虚构）",
+      "from_region_id": "510201",
+      "to_region_ids": ["510202", "510203"],
+      "effective_date": "2021-07-01"
+    }
+  ]
+}

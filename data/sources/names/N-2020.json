@@ -1,0 +1,14 @@
+{
+  "batch_id": "N-2020",
+  "published_at": "2020-01-10T02:00:00Z",
+  "records": [
+    {"kind": "name", "region_id": "510000", "name": "云川省", "parent_id": null, "effective_date": "2020-01-01"},
+    {"kind": "name", "region_id": "510100", "name": "锦山市", "parent_id": "510000", "effective_date": "2020-01-01"},
+    {"kind": "name", "region_id": "510101", "name": "云河区", "parent_id": "510100", "effective_date": "2020-01-01"},
+    {"kind": "name", "region_id": "510200", "name": "苍梧市", "parent_id": "510000", "effective_date": "2020-01-01"},
+    {"kind": "name", "region_id": "510201", "name": "云桥县", "parent_id": "510200", "effective_date": "2020-01-01"},
+    {"kind": "name", "region_id": "510300", "name": "龙泉市", "parent_id": "510000", "effective_date": "2020-01-01"},
+    {"kind": "name", "region_id": "510301", "name": "龙泉镇", "parent_id": "510300", "effective_date": "2020-01-01"},
+    {"kind": "name", "region_id": "510302", "name": "江南镇", "parent_id": "510300", "effective_date": "2020-01-01"}
+  ]
+}

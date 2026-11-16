@@ -1,0 +1,15 @@
+{
+  "batch_id": "G-2023",
+  "published_at": "2023-05-22T12:00:00Z",
+  "records": [
+    {
+      "kind": "notice",
+      "notice_id": "G-2023-009",
+      "event": "reuse",
+      "title": "关于锦山市新设江南区名称情况的说明（虚构，与龙泉市江南镇同名）",
+      "from_region_id": "510302",
+      "to_region_id": "510102",
+      "effective_date": "2023-05-01"
+    }
+  ]
+}

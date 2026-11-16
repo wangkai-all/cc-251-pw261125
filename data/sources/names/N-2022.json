@@ -1,0 +1,7 @@
+{
+  "batch_id": "N-2022",
+  "published_at": "2022-03-20T06:00:00Z",
+  "records": [
+    {"kind": "name", "region_id": "510301", "name": "龙泉新区", "parent_id": "510300", "effective_date": "2022-01-01"}
+  ]
+}
